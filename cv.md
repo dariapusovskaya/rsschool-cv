@@ -13,7 +13,7 @@ __________________________________________________________
 
 **Telegram:** @neishimenya
 
-### *Briefly About Myself:*
+### Briefly About Myself:
 
 **********************************************************
 
@@ -27,3 +27,15 @@ __________________________________________________________
 
 ### Code example:
 
+*********************************************************
+
+### Courses:
+
+*********************************************************
+
+### Languages:
+
+- Russian - Native
+- English - Upper Intermediate (in progress) 
+- Ukrainian - Intermediate
+- German - Basic (in progress) 
