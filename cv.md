@@ -13,4 +13,17 @@ __________________________________________________________
 
 **Telegram:** @neishimenya
 
-###*Briefly About Myself:*
+### *Briefly About Myself:*
+
+**********************************************************
+
+### Skills and Proficiency:
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+
+*********************************************************
+
+### Code example:
+
