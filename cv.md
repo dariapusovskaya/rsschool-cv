@@ -1,10 +1,16 @@
-#Daria Pusovskaya
+# Daria Pusovskaya
+__________________________________________________________
+
+## Junior Frontend Developer
+__________________________________________________________
+
+## Contact information:
 
 
-##Junior Frontend Developer
-##Contact information:
 **Phone:** +375256882448
+
 **E-mail:** pusovskajadn@gmail.com
+
 **Telegram:** @neishimenya
 
 ###*Briefly About Myself:*
