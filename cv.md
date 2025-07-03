@@ -15,6 +15,7 @@ __________________________________________________________
 
 ### Briefly About Myself:
 In 2019, I graduated from the Belarusian State Technological University with a degree in Certification Engineering. I worked in the food industry for two years as a Quality Engineer. From 2023 to 2024, I ran my own business. Since 2025, I have been studying IT-related specialties.
+
 **********************************************************
 
 ### Skills and Proficiency:
@@ -36,10 +37,12 @@ function evenOrOdd(number) {
   }
 }
 ```
+
 *********************************************************
 
 ### Courses:
 - Pre-school cours in The Rolling Scops School
+- 
 *********************************************************
 
 ### Languages:
