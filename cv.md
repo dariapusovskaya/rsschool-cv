@@ -34,7 +34,7 @@ function evenOrOdd(number) {
   else if (number % 2 !== 0) {
     return 'Odd'
   }
-}
+}```
 
 *********************************************************
 
