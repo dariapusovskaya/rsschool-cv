@@ -27,12 +27,19 @@ In 2019, I graduated from the Belarusian State Technological University with a d
 
 ### Code example:
 function evenOrOdd(number) {
+
   if (number % 2 === 0) {
+  
     return 'Even'
+    
   }
+  
   else if (number % 2 !== 0) {
+  
     return 'Odd'
+    
   }
+  
 }
 *********************************************************
 
