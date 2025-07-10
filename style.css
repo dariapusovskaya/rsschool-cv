@@ -1,14 +1,215 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
+* {
+    box-sizing: border-box;
+  }
 
-h1 {
-    color: #333;
-}
+  @font-face {
+    font-family: "Poppins";
+    font-weight: 700;
+    src: url('./assets/fonts/Poppins-Italic.ttf') format('truetype')
+  }
+    
 
-p {
-    color: #666;
-}
+
+    .container {
+        margin: 20px auto;
+        width: 1024px;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        line-height: 1.5;
+        background-color: #fff;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .two-columns {
+        display: flex;
+        vertical-align: baseline;
+    }
+
+    .left-column {
+        width: 42%;
+        color: black;
+        background-color: white;
+    }
+
+    header {
+        padding: 30px;
+        text-align: center;
+        background-color: #fff;
+    }
+
+    img {
+    margin-bottom: 10px;
+    border: 10px solid #d5dee6;
+    border-radius: 50%;
+    }
+
+   header h1 {
+        margin-bottom: 10px;
+        font-size: 2rem;
+        font: "Poppins", sans-serif; 
+        font-weight: 700;
+        line-height: 1.1;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    }
+
+    header h2 {
+        margin-bottom: 20px;
+        font: "Poppins", sans-serif;
+    }
+
+    main {
+       padding: 10px 10px 10px 10px;
+       margin: 20px;
+       background-color: #d5dee6;
+       border-radius: 10px 10px 10px 10px;
+    }
+    
+
+    main h3 {
+        width: 210px;
+        margin: 0 auto 10px;
+        padding: 10px 0px;
+        text-align: center;
+        font-family: "Poppins", sans-serif;
+        letter-spacing: 1px;
+        color: black;
+        border-radius: 10px 10px 0px 0px;
+    }
+
+    main ul {
+        padding-left: 2px;
+        text-align: left;
+    }
+
+    .right-column {
+        width: 100%;
+        margin: 50px;
+        padding: 25px;
+    }
+
+    .right-column .briefly-about h3 {
+        background-color: #d5dee6;
+        padding: 10px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .right-column .briefly-about p {
+        margin-left: 0px;
+        margin-bottom: 15px; 
+    }
+    .right-column .skills h3 {
+        background-color: #d5dee6;
+        padding: 10px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .right-column .skills ul {
+        margin-left: 0px;
+        margin-bottom: 15px;
+    }
+    .right-column .code h3 {
+        background-color: #d5dee6;
+        padding: 10px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .right-column .courses h3 {
+        background-color: #d5dee6;
+        padding: 10px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .right-column .languages h3 {
+        background-color: #d5dee6;
+        padding: 10px;
+        border-radius: 10px 10px 10px 10px;
+    }
+    .right-column .languages ul {
+        margin-left: 0px;
+        margin-bottom: 15px; 
+    }
+
+    footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        font-size: 0.8rem;
+        background-color: #d5dee6;
+    }
+
+    .cours {
+        display: flex;
+        flex-direction: column; 
+        align-items: center;    
+        text-align: center;     
+    }
+     
+    .link_cours {
+        margin-top: 0px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        color: blue;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    .link_cours:hover {
+        color: red
+    }
+
+    .github {
+        display: flex;
+        flex-direction: column; 
+        align-items: center;    
+        text-align: center;     
+    }
+
+    .github-icon {
+        max-width: 100%; 
+        height: auto;  
+    }
+
+    .link {
+        margin-top: 0px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        color: blue;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .link:hover {
+        color: red
+    }
+
+    pre {
+        max-width: 600px;      
+        margin: 20px auto;     
+        padding: 1em;          
+        background: #f5f5f5;   
+        border-radius: 5px;    
+        overflow-x: auto;      
+        box-sizing: border-box;
+      }
+
+    footer p {
+        font-family: "Poppins", sans-serif;
+        font-size: 1rem;
+        font-weight: 700;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    
+    footer .my-github p {
+        font-family: "Poppins", sans-serif;
+        font-size: 10px;
+    }
+     footer img {
+        border-radius: 0px;
+     }
+
+
+
+
+
+
+
+
