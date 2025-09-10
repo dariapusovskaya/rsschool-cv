@@ -7,7 +7,6 @@
     font-weight: 700;
     src: url('./assets/fonts/Poppins-Italic.ttf') format('truetype')
   }
-    
 
 
     .container {
@@ -46,7 +45,7 @@
    header h1 {
         margin-bottom: 10px;
         font-size: 2rem;
-        font: "Poppins", sans-serif; 
+        font: "Poppins", sans-serif;
         font-weight: 700;
         line-height: 1.1;
         text-transform: uppercase;
@@ -64,7 +63,6 @@
        background-color: #d5dee6;
        border-radius: 10px 10px 10px 10px;
     }
-    
 
     main h3 {
         width: 210px;
@@ -95,7 +93,7 @@
     }
     .right-column .briefly-about p {
         margin-left: 0px;
-        margin-bottom: 15px; 
+        margin-bottom: 15px;
     }
     .right-column .skills h3 {
         background-color: #d5dee6;
@@ -123,7 +121,7 @@
     }
     .right-column .languages ul {
         margin-left: 0px;
-        margin-bottom: 15px; 
+        margin-bottom: 15px;
     }
 
     footer {
@@ -137,11 +135,10 @@
 
     .cours {
         display: flex;
-        flex-direction: column; 
-        align-items: center;    
-        text-align: center;     
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     }
-     
     .link_cours {
         margin-top: 0px;
         font-family: "Poppins", sans-serif;
@@ -156,14 +153,14 @@
 
     .github {
         display: flex;
-        flex-direction: column; 
-        align-items: center;    
-        text-align: center;     
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     }
 
     .github-icon {
-        max-width: 100%; 
-        height: auto;  
+        max-width: 100%;
+        height: auto;
     }
 
     .link {
@@ -180,12 +177,12 @@
     }
 
     pre {
-        max-width: 600px;      
-        margin: 20px auto;     
-        padding: 1em;          
-        background: #f5f5f5;   
-        border-radius: 5px;    
-        overflow-x: auto;      
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 1em;
+        background: #f5f5f5;
+        border-radius: 5px;
+        overflow-x: auto;
         box-sizing: border-box;
       }
 
@@ -196,8 +193,6 @@
         margin: 0px;
         padding: 0px;
     }
-
-    
     footer .my-github p {
         font-family: "Poppins", sans-serif;
         font-size: 10px;
@@ -205,11 +200,3 @@
      footer img {
         border-radius: 0px;
      }
-
-
-
-
-
-
-
-
